@@ -1,0 +1,17 @@
+{
+  "name": "foobla_books",
+  "description": "a simple book manager",
+  "main": "index.js",
+  "authors": [
+    "minhlv"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/minhlucvan/foobla_books",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
