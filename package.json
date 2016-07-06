@@ -1,0 +1,23 @@
+{
+  "name": "foobla_books",
+  "version": "1.0.0",
+  "description": "a simple book manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhlucvan/foobla_books.git"
+  },
+  "author": "minhlv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhlucvan/foobla_books/issues"
+  },
+  "homepage": "https://github.com/minhlucvan/foobla_books#readme",
+  "devDependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
