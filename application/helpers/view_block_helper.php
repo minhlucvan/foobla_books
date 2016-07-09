@@ -3,7 +3,7 @@ function show_alert($message = "", $status = "success"){
     $CI =& get_instance();
 
     $CI->load->view(
-        "layout/main/alert",
+        "components/alert/main",
         array(
         "status" => $status,
         "message" => $message
